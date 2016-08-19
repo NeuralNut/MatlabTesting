@@ -17,3 +17,5 @@ dot2=sum(a.*b)
 
 % third way 
 dot3=a*b'
+
+% We addeed a mnew comment
